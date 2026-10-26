@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/runs/*.csv
+data/gate_logs/*.json
+*.png
+.DS_Store

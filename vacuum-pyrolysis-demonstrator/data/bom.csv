@@ -1,0 +1,36 @@
+item_no,item,qty,cost_inr,optional
+1,SS reactor vessel (2L cooker inner pot),1,700,no
+2,Kanthal A1 24 SWG ~30 m,1,350,no
+3,Mica sheet,1,100,no
+4,Ceramic wool blanket 25mm,1,350,no
+5,Aluminium foil jacket,1,100,no
+6,AC dimmer module 5A 230V,1,180,no
+7,K-type TC + MAX6675 + display,1,300,no
+8,Power cord/plug/switch/fuse,1,150,no
+9,Modified lid + gasket rope,1,250,no
+10,Copper tube 6mm x 2.5m,1,350,no
+11,Glass/SS collection jars x2,2,150,no
+12,Water bath + ice bath tubs,2,100,no
+13,Silicone tubing + hose clamps,1,150,no
+14,Scrubber bottle + airstone,1,80,no
+15,Silica gel 100g + housing,1,120,no
+16,Activated carbon 50g + cartridge,1,100,no
+17,Gas collection bags x5,5,60,no
+18,Brass burner nozzle ~1mm,1,100,no
+19,TEC1-12706 (TEG demo),1,280,no
+20,Finned aluminium heatsink,1,150,no
+21,12V DC fan,1,150,no
+22,LED + mini DC motor,1,80,no
+23,Mini pressure relief device (rupture disc/PRV),1,250,no
+24,Compound vacuum/pressure gauge -30inHg to 15psi,1,400,no
+25,MS angle/wood frame + fasteners,1,400,no
+26,High-temp sealant / PTFE tape / wiring,1,300,no
+27,Contingency,1,400,no
+28,Arduino Uno/Nano or ESP32,1,400,no
+29,Jumper wires,1,50,no
+30,Heat collector plate,1,150,no
+31,Clamp fixture,1,100,no
+32,12V supply for fan,1,150,no
+33,Hand vacuum pump (brake-bleeder style),1,800,no
+34,Vacuum port + isolation needle valve,1,200,no
+35,N2 backfill kit,1,100,yes
